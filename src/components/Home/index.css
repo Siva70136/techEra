@@ -1,0 +1,25 @@
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item {
+  list-style: none;
+  display: flex;
+  margin: 8px;
+  width: 250px;
+}
+.l {
+  width: 50px;
+}
+.name {
+  font-size: 18px;
+}

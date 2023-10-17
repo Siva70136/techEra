@@ -1,0 +1,11 @@
+.navbar-container {
+  width: 100%;
+  background-color: #f1f5f9;
+}
+.navbar {
+  padding: 10px;
+  margin-left: 20px;
+}
+.logo {
+  width: 170px;
+}
